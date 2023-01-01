@@ -1,0 +1,9 @@
+Còn 1 s? ch?c nang chua hoàn thi?n nhu:
+   + Chua có ch?c nang hi?n th? m?t kh?u ho?c quên m?t kh?u
+   + C?n check l?i l?i khi dang nh?p ko dúng
+   + Chua có trang Loading khi dang nh?p thành công
+   + State chua t? thay d?i khi s? lu?ng thay d?i
+   + Trang Customer chua hi?n th? d?a ch? khác hàng
+   + Chua phân du?c quy?n
+   + Chua load l?i b?ng khi thay d?i thông tin
+   + Mã khách hàng và mã hóa don chua t? tang
